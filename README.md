@@ -36,8 +36,6 @@ Server responds with:
 HTTP/1.1 404 Not Found
 Content-Type: text/html
 
-<html><body><h1>404 Not Found</h1></body></html>
-
 The 404 Not Found status code indicates that the requested file was not found on the server, 
 and the server responded accordingly with a corresponding HTML response.
 
